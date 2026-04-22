@@ -55,6 +55,5 @@ session_id,waves_survived,towers_placed,enemies_killed,gold_on_upgrades,lives_lo
 54,8,12,91,0,1,lose
 55,10,10,91,0,0,win
 56,10,11,141,607,1,win
-
 57,10,10,142,547,0,win
 58,10,12,139,946,3,win
