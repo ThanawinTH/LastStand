@@ -40,11 +40,11 @@
 
   ### Data Dashboard
 
-  ![Dashboard Overview](Screenshots/visualisation/Last_Stand_StatisticsAnalytic_Main.jpg)
-  ![Summary Table](Screenshots/visualisation/Last_Stand_Summary_Table.png)
-  ![Towers Placed Per Session](Screenshots/visualisation/Last_Stand_TowersPlacedPerSession.png)
-  ![Enemies Killed Per Session](Screenshots/visualisation/Last_Stand_EnemiesKilledPerSession.png)
-  ![Upgrade Spending vs Waves Survived](Screenshots/visualisation/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
+  ![Dashboard Overview](Screenshots/visualization/Last_Stand_StatisticsAnalytic_Main.jpg)
+  ![Summary Table](Screenshots/visualization/Last_Stand_Summary_Table.png)
+  ![Towers Placed Per Session](Screenshots/visualization/Last_Stand_TowersPlacedPerSession.png)
+  ![Enemies Killed Per Session](Screenshots/visualization/Last_Stand_EnemiesKilledPerSession.png)
+  ![Upgrade Spending vs Waves Survived](Screenshots/vizualization/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
 
 - **Proposal:** [Project Proposal](./proposal.pdf)
 
