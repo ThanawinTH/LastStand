@@ -80,7 +80,7 @@ The UML class diagram shows all major classes, their attributes, key methods, an
 - `Tower → ArcherTower / MageTower / BallistaTower`
 - `Enemy → Goblin / Orc / DarkKnight / BossEnemy`
 
-**Attachment:** [UML Class Diagram](./LastStand_UML_FINAL.pdf)
+**Attachment:** [UML Class Diagram](./UML_LastStand_FINAL.pdf)
 
 ---
 
