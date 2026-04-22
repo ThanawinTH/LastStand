@@ -1,0 +1,129 @@
+# ======================
+# Python Cache Files
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Virtual Environments
+# ======================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ======================
+# Environment Variables
+# ======================
+.env
+.env.*
+*.env
+!.env.example
+
+# ======================
+# IDE / Editor Settings
+# ======================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.spyderproject.db
+.ropeproject
+
+# ======================
+# Logs and Temporary Files
+# ======================
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+logs/
+log/
+
+# ======================
+# OS-Specific Files
+# ======================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ======================
+# Distribution / Packaging
+# ======================
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+*.whl
+MANIFEST
+
+# ======================
+# Testing & Coverage
+# ======================
+.pytest_cache/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.coverage
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+test-results/
+
+# ======================
+# Type Checkers & Linters
+# ======================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# ======================
+# Jupyter Notebooks
+# ======================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ======================
+# Database Files
+# ======================
+*.db
+*.sqlite
+*.sqlite3
+
+# ======================
+# Compiled / Binary Files
+# ======================
+*.so
+*.dll
+*.dylib
+*.class
+
+# ======================
+# Miscellaneous
+# ======================
+*.pid
+*.seed
+*.pid.lock
+.cache/
+.temp/
+tmp/
