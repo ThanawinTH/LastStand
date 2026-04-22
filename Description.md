@@ -44,7 +44,7 @@
   ![Summary Table](Screenshots/visualization/Last_Stand_Summary_Table.png)
   ![Towers Placed Per Session](Screenshots/visualization/Last_Stand_TowersPlacedPerSession.png)
   ![Enemies Killed Per Session](Screenshots/visualization/Last_Stand_EnemiesKilledPerSession.png)
-  ![Upgrade Spending vs Waves Survived](Screenshots/vizualization/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
+  ![Upgrade Spending vs Waves Survived](Screenshots/visualization/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
 
 - **Proposal:** [Project Proposal](./proposal.pdf)
 
