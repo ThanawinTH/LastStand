@@ -79,7 +79,6 @@ def main():
             elif result == "view_stats":
                 open_stats_dashboard()
 
-            # สำคัญ: อัปเดต/วาดเฉพาะตอน game ยังมีอยู่
             if game is not None:
                 game.update(dt)
                 game.draw()
