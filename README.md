@@ -123,7 +123,7 @@ python3 dashboard_main.py
 ## Project Structure
 
 ```
-Last-Stand/
+LastStand/
 │
 ├── core/                   # Game loop, wave manager, scene manager, stats logger, music
 ├── entities/               # Tower and Enemy class hierarchy + projectiles
