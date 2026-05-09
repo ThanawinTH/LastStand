@@ -159,3 +159,14 @@ All originally proposed features have been implemented as planned. No changes we
 ## 7. External Sources
 
 All assets are sourced from open-source or royalty-free repositories. Attribution details are included in the `assets/` folder.
+
+### Music
+
+The background music tracks used in Last Stand were generated using AI music generation tools and are included as original assets in the `assets/sounds/` folder.
+
+| File                           | Scene                    | Description                                                                                   |
+| ------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------- |
+| `assets/sounds/music_menu.wav` | Main Menu / Start Screen | Ambient, atmospheric track played on the title and start screen to set the space dungeon mood |
+| `assets/sounds/music_game.wav` | Gameplay                 | Tense, action-oriented track that plays during active gameplay waves                          |
+
+Both tracks were created specifically for this project using AI-assisted music composition and are not sourced from any third-party library. They are royalty-free and original to this project.
