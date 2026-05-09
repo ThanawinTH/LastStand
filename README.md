@@ -123,18 +123,27 @@ python3 dashboard_main.py
 ## Project Structure
 
 ```
-TowerDefenseMing/
+Last-Stand/
 │
-├── core/               # Game loop, wave manager, scene manager, stats logger, music
-├── entities/           # Tower and Enemy class hierarchy + projectiles
-├── ui/                 # HUD, panels, start screen, stats dashboard, theme
-├── editor/             # Map editor logic
-├── data/               # sessions.csv + map JSON/PNG files
-├── assets/             # Images and sounds
-├── config.py           # Global constants (window size, colors, game balance)
-├── main.py             # Game entry point
-├── editor_main.py      # Map editor entry point
-└── dashboard_main.py   # Statistics dashboard entry point
+├── core/                   # Game loop, wave manager, scene manager, stats logger, music
+├── entities/               # Tower and Enemy class hierarchy + projectiles
+├── ui/                     # HUD, panels, start screen, stats dashboard, theme
+├── editor/                 # Map editor logic
+├── data/                   # sessions.csv, map JSON/PNG files, statistics_manager.py
+│   └── maps/               # map01.json, map01.png
+├── assets/                 # Game assets
+│   ├── images/             # Sprite and tile images
+│   └── sounds/             # music_menu.wav, music_game.wav
+├── screenshots/            # Gameplay and visualization screenshots
+│   ├── gameplay/
+│   └── visualization/
+├── config.py               # Global constants (window size, colors, game balance)
+├── main.py                 # Game entry point
+├── editor_main.py          # Map editor entry point
+├── dashboard_main.py       # Statistics dashboard entry point
+├── requirements.txt        # Python dependencies
+├── LICENSE                 # Project license
+└── DESCRIPTION.md          # Full project description and documentation
 ```
 
 ---
@@ -153,4 +162,13 @@ All planned features have been implemented.
 
 ## External Sources
 
-All assets are from open-source or royalty-free sources. See `assets/` folder for individual attributions.
+All assets are original or AI-generated and are royalty-free.
+
+### Music
+
+| File                           | Scene                    |
+| ------------------------------ | ------------------------ |
+| `assets/sounds/music_menu.wav` | Main Menu / Start Screen |
+| `assets/sounds/music_game.wav` | Gameplay                 |
+
+Both tracks were created using AI-assisted music composition specifically for this project.

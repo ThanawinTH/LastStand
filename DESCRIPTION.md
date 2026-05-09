@@ -48,7 +48,7 @@
 
 - **Proposal:** [Project Proposal](./proposal.pdf)
 
-- **YouTube Presentation:** _(Add your YouTube link here)_
+- **YouTube Presentation:** [Watch on YouTube](https://youtu.be/NkS0e7dpPJo)
 
 ---
 
