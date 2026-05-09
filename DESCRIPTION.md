@@ -33,18 +33,18 @@
 
   ### Gameplay
 
-  ![Menu](Screenshots/gameplay/Last_Stand_Menu.jpg)
-  ![Main Gameplay](Screenshots/gameplay/Last_Stand_Main_Gameplay.jpg)
-  ![Paused UI](Screenshots/gameplay/Last_Stand_Paused_UI.jpg)
-  ![Real-Time Stats](Screenshots/gameplay/Last_Stand_RealTime_Stats.jpg)
+  ![Menu](screenshots/gameplay/Last_Stand_Menu.jpg)
+  ![Main Gameplay](screenshots/gameplay/Last_Stand_Main_Gameplay.jpg)
+  ![Paused UI](screenshots/gameplay/Last_Stand_Paused_UI.jpg)
+  ![Real-Time Stats](screenshots/gameplay/Last_Stand_RealTime_Stats.jpg)
 
   ### Data Dashboard
 
-  ![Dashboard Overview](Screenshots/visualization/Last_Stand_StatisticsAnalytic_Main.jpg)
-  ![Summary Table](Screenshots/visualization/Last_Stand_Summary_Table.png)
-  ![Towers Placed Per Session](Screenshots/visualization/Last_Stand_TowersPlacedPerSession.png)
-  ![Enemies Killed Per Session](Screenshots/visualization/Last_Stand_EnemiesKilledPerSession.png)
-  ![Upgrade Spending vs Waves Survived](Screenshots/visualization/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
+  ![Dashboard Overview](screenshots/visualization/Last_Stand_StatisticsAnalytic_Main.jpg)
+  ![Summary Table](screenshots/visualization/Last_Stand_Summary_Table.png)
+  ![Towers Placed Per Session](screenshots/visualization/Last_Stand_TowersPlacedPerSession.png)
+  ![Enemies Killed Per Session](screenshots/visualization/Last_Stand_EnemiesKilledPerSession.png)
+  ![Upgrade Spending vs Waves Survived](screenshots/visualization/Last_Stand_UpgradeSpendingvsWavesSurvied.png)
 
 - **Proposal:** [Project Proposal](./proposal.pdf)
 
